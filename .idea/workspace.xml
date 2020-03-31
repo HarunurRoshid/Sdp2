@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d30a0c95-ce5b-4545-bb50-be0afd4bb9b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1ZQhk4v3lqkwMK0MHCHgLjv8Wun" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d30a0c95-ce5b-4545-bb50-be0afd4bb9b0" name="Default Changelist" comment="" />
+      <created>1584777364659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584777364659</updated>
+      <workItem from="1584777367066" duration="674000" />
+      <workItem from="1584847463601" duration="1455000" />
+      <workItem from="1584850090437" duration="1794000" />
+      <workItem from="1584883799767" duration="1733000" />
+      <workItem from="1584885565854" duration="1632000" />
+      <workItem from="1584935305767" duration="1828000" />
+      <workItem from="1584937202915" duration="1715000" />
+      <workItem from="1584944595242" duration="1628000" />
+      <workItem from="1584946365856" duration="554000" />
+      <workItem from="1585147793678" duration="1484000" />
+      <workItem from="1585149582327" duration="537000" />
+      <workItem from="1585193384339" duration="1749000" />
+      <workItem from="1585195178489" duration="813000" />
+      <workItem from="1585198505928" duration="1089000" />
+      <workItem from="1585234883988" duration="924000" />
+      <workItem from="1585237037116" duration="1782000" />
+      <workItem from="1585313119960" duration="1768000" />
+      <workItem from="1585314956547" duration="146000" />
+      <workItem from="1585317793223" duration="1660000" />
+      <workItem from="1585319920862" duration="1470000" />
+      <workItem from="1585368872094" duration="1121000" />
+      <workItem from="1585370765012" duration="1789000" />
+      <workItem from="1585372575614" duration="659000" />
+      <workItem from="1585409351960" duration="80000" />
+      <workItem from="1585409564094" duration="511000" />
+      <workItem from="1585458213368" duration="770000" />
+      <workItem from="1585633972508" duration="1722000" />
+      <workItem from="1585635744583" duration="1435000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584884516831">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1584884516831" />
+    <state x="401" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585321114788">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="401" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1585321114788" />
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1585238788352">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1585238788352" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1585635746189">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1585635746188" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1585636085108">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1585636085108" />
+  </component>
+</project>
